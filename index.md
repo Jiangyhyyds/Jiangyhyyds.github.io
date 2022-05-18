@@ -1,7 +1,8 @@
 <table border="0">
     <tr>
         <td width="75%">
-            <h1>YuHuan Jiang</h1>
+            <h1>个人简介</h1>
+            <p><b>姓名：YuHuan Jiang</b></p>
             <p><b>学历：本科生</b></p>
             <p><b>学校：长江大学</b></p>
             <p><b>专业：电子信息类 通信工程</b></p>
