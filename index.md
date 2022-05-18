@@ -1,14 +1,3 @@
-## Welcome to the YuHuan Jiang 's page
-
-欢迎来到我的个人主页
-
-### 个人简介
-#### 姓名: YuHuan Jiang
-#### 学历: 本科
-#### 学校: Yangtze University
-#### 专业: 电子信息类 通信工程
-#### 邮箱: 790324376@qq.com
-
 <table border="0">
     <tr>
         <td width="75%">
@@ -19,7 +8,7 @@
             <p><b>邮箱：790324376@qq.com</b></p>
         </td>
         <td width="25%">
-            <img src="/Faker01.jpeg" alt="不支持此类图片" width="100%">
+            <img src="/Faker01.jpg" alt="不支持此类图片" width="100%">
         </td>
     </tr>
 </table>
